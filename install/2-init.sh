@@ -1,0 +1,1 @@
+kubeadm init --pod-network-cidr=10.20.0.0/16 --service-cidr=10.30.0.0/16
